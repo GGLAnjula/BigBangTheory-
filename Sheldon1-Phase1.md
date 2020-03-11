@@ -4,7 +4,7 @@ First of all we need to extact the bigbangtheory **_.zip file._** It contains fi
 
 ![sheldon1-2](https://user-images.githubusercontent.com/36528620/76442252-a8922780-63e6-11ea-968a-8b973ace37b8.PNG)
 
-Then use **gdb** with **_sheldon1_**
+Then use **gdb** with **_sheldon1_**.
 
 ![gdb sheldon1-3](https://user-images.githubusercontent.com/36528620/76442319-c8295000-63e6-11ea-9816-87c14cbbd3f5.PNG)
 
